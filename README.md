@@ -1,0 +1,1 @@
+This is a project I built to practice the fundamentals of Python through a practical, everyday tool: a task manager. It runs entirely in the terminal and lets you keep track of a to-do list in real time.
